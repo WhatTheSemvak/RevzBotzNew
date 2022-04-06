@@ -51,6 +51,7 @@ const { ythd } = require('./lib/ytdl')
 const gtts = require('./lib/gtts.js')('id')
 //══════════[ Setting ]══════════//
 
+
 self = setting.self
 dhakey = apikey.dhakey
 LolKey = apikey.LolKey
