@@ -8,11 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ramdaniofficial/v17#requirements">Requirements</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#instalasi">Installation</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#thanks-to">Thanks to</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/Ramdaniofficial/v17#donate">Donate</a>
+  <a href="https://github.com/WhatTheSemvak/RevzBotzNew/#requirements">Requirements</a> •
+  <a href="https://github.com/WhatTheSemvak/RevzBotzNew/#instalasi">Installation</a> •
+  <a href="https://github.com/WhatTheSemvak/RevzBotzNew/#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/WhatTheSemvak/RevzBotzNew/#donate">Donate</a>
 </p>
 </div>
 
