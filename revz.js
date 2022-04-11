@@ -45,7 +45,7 @@ const { wait, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, star
 const setting = JSON.parse(fs.readFileSync('./setting/setting.json'))
 const apikey = JSON.parse(fs.readFileSync('./setting/apikey.json'))
 const { rules } = require('./setting/rules')
-
+const yta = require("yt-search")
 const { y2mateA, y2mateV } = require('./lib/y2mate')
 const { ythd } = require('./lib/ytdl')
 const gtts = require('./lib/gtts.js')('id')
